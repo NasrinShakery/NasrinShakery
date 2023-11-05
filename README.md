@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&hide_progress=true"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&layout=donut)
 
 - 🔭 I’m currently working on ...
