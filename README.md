@@ -1,6 +1,9 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&hide_progress=true"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&layout=donut)
+
+![](https://github-readme-stats.vercel.app/api?username=NasrinShakery&show_icons=true&theme=synthwave)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&layout=compact)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
