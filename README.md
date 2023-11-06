@@ -51,8 +51,8 @@ I'm a Front-end developer...
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=NasrinShakery&show_icons=true&theme=synthwave) 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&theme=dark) 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&layout=compact&theme=dark) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&layout=compact&theme=dark) 
+ <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NasrinShakery&theme=dark) -->
 
 ---
 ```javascript
@@ -66,6 +66,8 @@ if ( hardwork() === true ) {
 ---
 > while ( ! (succeed = try() ) );
 
+---
+[![](https://visitcount.itsvg.in/api?id=NasrinShakery&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- 
 ```javascript
