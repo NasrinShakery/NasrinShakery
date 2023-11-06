@@ -16,9 +16,9 @@ I'm a Front-end developer...
 <!-- ![](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript) -->
 
 - 🔧 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-- 🗄️ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![NPM](https://img.shields.io/badge/NPM-%235B3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+- 🗄️ ![MySQL](https://img.shields.io/badge/mysql-%23255.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23038AB5.svg?style=for-the-badge&logo=firebase)
 
 
 <!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -27,7 +27,6 @@ I'm a Front-end developer...
 
 ---
 ### My Hobby   
-![](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gift)
 - 👩‍💻 Drinking Coffe☕ & Coding💻
 - Reading Book📚 Eating Noodle🍜 Doing Yoga🧘🏻‍♀️
 - ![](https://img.shields.io/badge/Spotify-black?logo=spotify)
