@@ -2,8 +2,7 @@
 ## 🚀 About Me
 #### I'm Nasrin Shakery 
 I'm a Front-end developer...
-- 🎓 Student of Web programming IT
-- 🌱 I’m currently learning `React Js`
+- 🎓 Web programming IT
 ---
 
   ## 👩‍💻 Skills
