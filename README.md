@@ -5,8 +5,9 @@ I'm a Front-end developer...
 - 🎓 Web programming IT
 ---
 
-  ## 👩‍💻 Skills
-- 🌐 ![React](https://img.shields.io/badge/react-%23333330.svg?style=for-the-badge&logo=react&logoColor=%2461DFFB)
+  ## 👩‍💻 Skills  
+- 🌐 ![Next](https://img.shields.io/badge/next-%53E34F26.svg?style=for-the-badge&logo=next&logoColor=white)
+![React](https://img.shields.io/badge/react-%23333330.svg?style=for-the-badge&logo=react&logoColor=%2461DFFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +31,7 @@ I'm a Front-end developer...
 ### My Hobby   
 - 👩‍💻 Drinking Coffe☕ & Coding💻
 - Reading Book📚
--  Eating Noodle🍜 Doing Yoga🧘🏻‍♀
+<!-- -  Eating Noodle🍜 Doing Yoga🧘🏻‍♀ -->
 - ![](https://img.shields.io/badge/Spotify-black?logo=spotify)
 ---
 
