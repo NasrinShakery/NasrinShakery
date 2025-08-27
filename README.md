@@ -28,9 +28,9 @@ I'm a Front-end developer...
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -->
 
 ---
-### My Hobby   
-- 👩‍💻 Drinking Coffe☕ & Coding💻
-- Reading Book📚
+###    
+- 👩‍💻 Coffe☕ & Coding💻
+-  Book📚
 <!-- -  Eating Noodle🍜 Doing Yoga🧘🏻‍♀ -->
 - ![](https://img.shields.io/badge/Spotify-black?logo=spotify)
 ---
